@@ -1,0 +1,26 @@
+html, body {
+    margin: 0;
+    padding: 0;
+    
+}
+uc-content {
+    display: flex;
+     background-color: gray; 
+
+    width: 100vw;
+    height: 100vh;
+
+    justify-content: center;
+    align-items: center;
+}
+
+uc-presentation {
+    display: block;
+    background-color: #fff;
+    
+    width: 75vmin;
+    height: 75vmin;
+
+    border: .2em solid #000;
+    border-radius: 1em;
+}
